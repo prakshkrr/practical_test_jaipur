@@ -1,0 +1,33 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#1574
+    [34mall[39m: [
+      [34;4mApp\Models\User[39;24m {#6624
+        [34mid[39m: [35m1[39m,
+        [34mname[39m: "[32mSuper Admin[39m",
+        [34memail[39m: "[32msuperadmin@test.com[39m",
+        [34mrole[39m: "[32mSuperAdmin[39m",
+        [34mcompany_id[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\User[39;24m {#6623
+        [34mid[39m: [35m2[39m,
+        [34mname[39m: "[32mAdmin User[39m",
+        [34memail[39m: "[32madmin@test.com[39m",
+        [34mrole[39m: "[32mAdmin[39m",
+        [34mcompany_id[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\User[39;24m {#6622
+        [34mid[39m: [35m3[39m,
+        [34mname[39m: "[32mMember User[39m",
+        [34memail[39m: "[32mmember@test.com[39m",
+        [34mrole[39m: "[32mMember[39m",
+        [34mcompany_id[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\User[39;24m {#6621
+        [34mid[39m: [35m4[39m,
+        [34mname[39m: "[32mSales User[39m",
+        [34memail[39m: "[32msales@test.com[39m",
+        [34mrole[39m: "[32mSales[39m",
+        [34mcompany_id[39m: [36mnull[39m,
+      },
+    ],
+  }
+
